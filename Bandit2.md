@@ -5,11 +5,11 @@
 # Level Goal
 The password for the next level is stored in a file called `-` located in the home directory.
 
-# Commands needed to solve this
+### Commands needed to solve this
 * `ls`
 * `cat`
 
-# Use 
+### Use 
 ```bash
 ls
 ```
@@ -20,7 +20,7 @@ cat -
 ```
 Using this command we will not get the desired output as it takes input and gives the same input text as output in the cli.
 
-# So use this
+### So use this
 ```bash
 cat ./-
 ```
