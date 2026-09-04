@@ -1,6 +1,6 @@
 # Bandit Level 3 - Level 4
 
-[↑ Up](README.md) | [← Previous](Bandit32.md) | [Next →](Bandit5.md)
+[↑ Up](README.md) | [← Previous](Bandit3.md) | [Next →](Bandit5.md)
 
 ### Level Goal
 
