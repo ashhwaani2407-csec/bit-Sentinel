@@ -19,4 +19,6 @@ Extracting the flags, one pipeline at a time.
 
 * `du`  - Summarize device usage of the set of FILEs, recursively for directories.
 
-* `find` - find searches the directory tree rooted at each given starting-point by evaluating the given expression from left to right
+* `find` - `find` searches the directory tree rooted at each given starting-point by evaluating the given expression from left to right.
+
+* `grep` - stands for Global Regular Expression Print. It scans files or stream outputs line-by-line and prints any line that matches a specified pattern or                  regular expression.
